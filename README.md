@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Rijwanul Haque Roman 🧑‍💻</h1>
 <h3 align="center">A passionate developer from Bangladesh 🇧🇩</h3>
-<h4 align="center">🌱 I’m currently learning </br> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/></h4>
+<!-- <h4 align="center">🌱 I’m currently learning </br> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/></h4> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rijwanul-haque-roman&label=Profile%20views&color=0e75b6&style=flat" alt="rijwanul-haque-roman" /> </p>
 
-- 📫 How to reach me **romanrijwanul@gmail.com**
+- 📫 How to reach me **rizwanul.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
