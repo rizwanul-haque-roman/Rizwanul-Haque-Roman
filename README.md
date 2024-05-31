@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm rizwanul Haque Roman 🧑‍💻</h1>
 <h3 align="center">A passionate developer from Bangladesh 🇧🇩</h3>
-- 🌱 I’m currently learning **JWT, Interceptor, Axios**
+<!-- - 🌱 I’m currently learning **JWT, Interceptor, Axios** -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwanul-haque-roman&label=Profile%20views&color=0e75b6&style=flat" alt="rizwanul-haque-roman" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwanul-haque-roman&label=Profile%20views&color=0e75b6&style=flat" alt="rizwanul-haque-roman" /> </p>-->
 
 - 📫 How to reach me **rizwanul.dev@gmail.com**
 
