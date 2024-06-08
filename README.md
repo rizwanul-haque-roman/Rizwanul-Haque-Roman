@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm rizwanul Haque Roman 🧑‍💻</h1>
+<h1 align="center">Hi 👋, I'm Rizwanul Haque Roman 🧑‍💻</h1>
 <h3 align="center">A passionate developer from Bangladesh 🇧🇩</h3>
 <!-- - 🌱 I’m currently learning **JWT, Interceptor, Axios** -->
 
