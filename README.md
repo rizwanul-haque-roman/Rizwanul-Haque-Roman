@@ -50,8 +50,7 @@
 
 ##
 
-</br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwanul-haque-roman&show_icons=true&locale=en&layout=compact" alt="rizwanul-haque-roman" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwanul-haque-roman&show_icons=true&locale=en" alt="rizwanul-haque-roman" /></p>
-</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanul-haque-roman&" alt="rizwanul-haque-roman" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwanul-haque-roman&show_icons=true&locale=en&layout=compact" alt="rizwanul-haque-roman" /></p>
