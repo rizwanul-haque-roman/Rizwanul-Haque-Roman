@@ -1,5 +1,8 @@
 
-<img align="right" height="500" src="https://i.ibb.co/syYw39g/test.gif"  />
+<div>
+  <img width="1280" src="https://i.ibb.co/syYw39g/test.gif"  />
+<br/>
+</div>
 <!--<img align="right" height="500" src="https://i.ibb.co/9vqvhhf/me.gif"  />-->
 
 <div align="center">
