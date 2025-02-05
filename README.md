@@ -18,7 +18,6 @@
   </a>
 </div>
 <br>
-<br>
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -27,8 +26,6 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,python" /><br>
     <img src="https://skillicons.dev/icons?i=git,vscode" /><br>
 </div>
- 
-<br>
 <br>
 <h2 align="left">⚡ Stats ⚡</h2>
 <p align=center>
@@ -45,8 +42,6 @@
     </a>
   </div>
   <br>
-  <br>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanul-haque-roman&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 </div>
